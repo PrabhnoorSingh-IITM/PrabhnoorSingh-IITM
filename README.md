@@ -1,6 +1,6 @@
 <!-- Title -->
 <h1 align="center">Hi, I'm Prabhnoor Singh 👋</h1>
-<p align="center">💻 Aspiring Full-Stack Developer | 1st Year @ IIT Madras | Learning Full-Stack Development</p>
+<p align="center">💻 Aspiring Full-Stack Developer | 1st Year @ IIT Madras & GGSIPU | Learning Full-Stack Development</p>
 
 ---
 
