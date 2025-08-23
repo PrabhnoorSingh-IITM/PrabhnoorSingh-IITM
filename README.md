@@ -24,8 +24,7 @@ I believe in **learning by doing** — through **online courses**, **hands-on pr
 ### ✅ Completed So Far  
 - Python Fundamentals  
 - HTML & CSS (Frontend Basics)  
-- DSA (Theoretical understanding, needs practice)  
-
+- DSA
 ---
 
 ### 🛠️ Tech Stack  
