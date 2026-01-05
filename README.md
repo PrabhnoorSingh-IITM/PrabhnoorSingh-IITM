@@ -27,7 +27,6 @@ I value understanding over shortcuts. If I don’t truly know something, I redo 
 ### 📚 Currently Learning  
 - React (component thinking, state, basics of modern frontend)  
 - DSA (revisiting concepts with actual understanding)  
-- Core programming concepts in C / C++  
 - JavaScript fundamentals  
 
 ---
