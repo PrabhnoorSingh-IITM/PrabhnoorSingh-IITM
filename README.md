@@ -8,7 +8,7 @@
 ---
 
 ### 🌟 About Me  
-I’m a first-year engineering student (2nd semester) focused on **building a solid computer science foundation** while actively exploring where I want to go deep.
+I’m a first-year engineering student focused on **building a solid computer science foundation** while actively exploring where I want to go deep.
 
 I’m currently inclined toward **full-stack development**, but I intentionally keep my scope wide — backend systems, hardware-software integration, app development, and AI/ML all interest me. I believe the early years are for **exploration with intent**, not premature specialization.
 
@@ -18,16 +18,16 @@ I value understanding over shortcuts. If I don’t truly know something, I redo 
 
 ### 🎯 Current Focus  
 - Strengthening **core CS fundamentals**
-- Rebuilding **Data Structures & Algorithms** from the ground up
+- Learning **Data Structures & Algorithms** from the ground up
 - Learning **React** through hands-on usage
 - Exploring real-world problem solving via hackathons
 
 ---
 
 ### 📚 Currently Learning  
-- React (component thinking, state, basics of modern frontend)  
-- DSA (revisiting concepts with actual understanding)  
-- JavaScript fundamentals  
+- React
+- DSA 
+- JavaScript fundamentals
 
 ---
 
